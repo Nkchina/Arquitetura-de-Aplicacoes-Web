@@ -34,4 +34,24 @@ public class UserService {
     public void excluir(String id){
         userRepository.deleteById(id);
     }
+
+    public List<UserEntity> buscarPorNome(String nome) {
+        return userRepository.findByNomeIgnoreCase(nome);
+    }
+
+    public List<UserEntity> buscarPorEmail(String email) {
+        return userRepository.findByEmailIgnoreCase(email);
+    }
+
+    public List<UserEntity> buscarPorNomeEEmail(String nome, String email) {
+        return userRepository.findByNomeAndEmail(nome, email);
+    }
+
+    public List<UserEntity> buscarPorNomeQueComecaCom(String prefixo) {
+        return userRepository.findByNomeStartingWithIgnoreCase(prefixo);
+    }
+
+    public List<UserEntity> buscarPorNomeQueContem(String substring) {
+        return userRepository.findByNomeContainingIgnoreCase(substring);
+    }
 }
