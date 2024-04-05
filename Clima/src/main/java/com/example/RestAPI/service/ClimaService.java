@@ -51,6 +51,9 @@ public class ClimaService {
         } else {
             dadosMeteorologicos = "Falha ao obter dados meteorológicos. Código de status: " + responseEntity.getStatusCode();
         }
+
+        ClimaEntity clima = new ClimaEntity(dadosMeteorologicos a, a, a, a);
+        inserir(clima);
         return dadosMeteorologicos;
     }
 }
