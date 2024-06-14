@@ -36,3 +36,15 @@ Autenticação
 Para autenticar um usuário e obter um token JWT, envie uma requisição POST para /login com um JSON contendo username e password.
 
 Exemplo de requisição:
+```bash
+curl -X POST http://localhost:8080/login \
+  -H "Content-Type: application/json" \
+  -d '{"username":"Nicolas","password":"2820"}'
+
+A resposta será um token JWT que pode ser utilizado para acessar endpoints protegidos.
+
+Acesso aos Endpoints
+GET /username/{token}: Obtém o nome de usuário a partir de um token JWT.
+GET /user: Retorna informações do usuário autenticado.
+GET /admin: Apenas usuários com a role ADMIN podem acessar este endpoint.
+Exemplos de requisições para acessar os endpoints protegidos:
