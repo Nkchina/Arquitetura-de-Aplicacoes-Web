@@ -70,7 +70,7 @@ Substitua {token} pelo token JWT obtido durante a autenticação.
 - Autorização baseada em roles (usuário e admin)
 - Endpoints seguros e públicos
 
-## Capturas de Tela
+# Capturas de Tela
 Aqui estão algumas capturas de tela das funcionalidades:
 
 Login
