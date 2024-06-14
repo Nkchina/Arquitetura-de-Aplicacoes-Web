@@ -1,2 +1,12 @@
-![image](https://github.com/Nkchina/Arquitetura-de-Aplicacoes-Web/assets/94817330/f3fdf7c8-ca3b-47a7-b098-388d1a024804)
+JWT Rest API
+Este projeto é uma API REST que utiliza JSON Web Tokens (JWT) para autenticação. Implementado com Spring Boot, ele fornece endpoints para login, extração de nome de usuário e acesso baseado em roles.
 
+Índice
+Introdução
+Instalação
+Uso
+Funcionalidades
+Contribuindo
+Licença
+Autores
+Agradecimentos
