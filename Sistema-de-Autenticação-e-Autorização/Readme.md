@@ -50,4 +50,32 @@ A resposta será um token JWT que pode ser utilizado para acessar endpoints prot
 - GET /username/{token}: Obtém o nome de usuário a partir de um token JWT.
 - GET /user: Retorna informações do usuário autenticado.
 - GET /admin: Apenas usuários com a role ADMIN podem acessar este endpoint.
-Exemplos de requisições para acessar os endpoints protegidos:
+
+2. Exemplos de requisições para acessar os endpoints protegidos:
+   ```bash
+   # Obter nome de usuário a partir do token
+   curl -X GET http://localhost:8080/username/{token}
+
+   # Acessar informações do usuário autenticado
+   curl -X GET http://localhost:8080/user \
+     -H "Authorization: Bearer {token}"
+
+   # Acessar endpoint restrito para administradores
+   curl -X GET http://localhost:8080/admin \
+     -H "Authorization: Bearer {token}"
+Substitua {token} pelo token JWT obtido durante a autenticação.
+
+##Funcionalidades
+Autenticação utilizando JWT
+Autorização baseada em roles (usuário e admin)
+Endpoints seguros e públicos
+Capturas de Tela
+Aqui estão algumas capturas de tela das funcionalidades:
+
+Login
+
+Extração de Nome de Usuário
+
+Acesso ao Endpoint do Usuário
+
+Acesso ao Endpoint do Administrador
