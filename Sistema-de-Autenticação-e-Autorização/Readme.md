@@ -75,10 +75,11 @@ Aqui estão algumas capturas de tela das funcionalidades:
 
 
 - **Extração de Nome de Usuário**  
-![Extração de Nome de Usuário](imagens/extracao-username.png)
+![image](https://github.com/Nkchina/Arquitetura-de-Aplicacoes-Web/assets/94817330/5fb8b899-2ead-46af-bafa-7cadcf379a7e)
 
 - **Acesso ao Endpoint do Usuário**  
-![Acesso ao Endpoint do Usuário](imagens/endpoint-usuario.png)
+![image](https://github.com/Nkchina/Arquitetura-de-Aplicacoes-Web/assets/94817330/13194839-de8c-4132-ac82-6d1ad58dd936)
+
 
 - **Acesso ao Endpoint do Administrador**  
 ![Acesso ao Endpoint do Administrador](imagens/endpoint-admin.png)
