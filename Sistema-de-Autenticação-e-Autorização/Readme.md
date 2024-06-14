@@ -3,12 +3,5 @@
 ## JWT Rest API
 <p align="center">Este projeto é uma API REST que utiliza JSON Web Tokens (JWT) para autenticação. Implementado com Spring Boot, ele fornece endpoints para login, extração de nome de usuário e acesso baseado em roles.</p>
 
-### 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- [Expo](<https://expo.io/>)
-- [Node.js](<https://nodejs.org/en/>)
-- [React](<https://pt-br.reactjs.org/>)
-- [React Native](<https://reactnative.dev/>)
-- [TypeScript](<https://www.typescriptlang.org/>)
+### Introdução
+<p align="center">Este projeto demonstra como configurar autenticação JWT em uma API REST com Spring Boot. Ele inclui exemplos de configuração de segurança, geração e validação de tokens JWT, e controle de acesso baseado em roles.</p>
