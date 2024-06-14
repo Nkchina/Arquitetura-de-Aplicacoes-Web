@@ -26,36 +26,23 @@ Para instalar e configurar o projeto, siga as etapas abaixo:
    ```sh
    git clone https://github.com/Nkchina/Arquitetura-de-Aplicacoes-Web.git
    cd Arquitetura-de-Aplicacoes-Web
-2. Execute a aplicação utilizando Maven:
+2. Instale as dependências utilizando Maven:
+   ```bash
+    mvn install
+3. Execute a aplicação utilizando Maven:
    ```bash
     mvn spring-boot:run
-O servidor será iniciado em http://localhost:8080.
+O servidor será iniciado em `http://localhost:8080`.
 
 ## Uso
-Autenticação
-Para autenticar um usuário e obter um token JWT, envie uma requisição POST para /login com um JSON contendo username e password.
+
+### Autenticação
+
+Para autenticar um usuário e obter um token JWT, envie uma requisição POST para `/login` com um JSON contendo `username` e `password`.
 
 Exemplo de requisição:
-```bash
-curl -X POST http://localhost:8080/login \
-  -H "Content-Type: application/json" \
-  -d '{"username":"Nicolas","password":"2820"}'
-
-A resposta será um token JWT que pode ser utilizado para acessar endpoints protegidos.
-
-Acesso aos Endpoints
-GET /username/{token}: Obtém o nome de usuário a partir de um token JWT.
-GET /user: Retorna informações do usuário autenticado.
-GET /admin: Apenas usuários com a role ADMIN podem acessar este endpoint.
-Exemplos de requisições para acessar os endpoints protegidos:
-```bash
-# Obter nome de usuário a partir do token
-curl -X GET http://localhost:8080/username/{token}
-
-# Acessar informações do usuário autenticado
-curl -X GET http://localhost:8080/user \
-  -H "Authorization: Bearer {token}"
-
-# Acessar endpoint restrito para administradores
-curl -X GET http://localhost:8080/admin \
-  -H "Authorization: Bearer {token}"
+``bash
+curl -X POST http://localhost:8080/login
+-H "Content-Type: application/json"
+-d '{"username":"Nicolas","password":"2820"}'
+aaaaaa
