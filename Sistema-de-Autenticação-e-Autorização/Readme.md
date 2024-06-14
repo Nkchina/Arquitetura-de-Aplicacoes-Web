@@ -65,11 +65,12 @@ A resposta será um token JWT que pode ser utilizado para acessar endpoints prot
      -H "Authorization: Bearer {token}"
 Substitua {token} pelo token JWT obtido durante a autenticação.
 
-##Funcionalidades
-Autenticação utilizando JWT
-Autorização baseada em roles (usuário e admin)
-Endpoints seguros e públicos
-Capturas de Tela
+## Funcionalidades
+- Autenticação utilizando JWT
+- Autorização baseada em roles (usuário e admin)
+- Endpoints seguros e públicos
+
+## Capturas de Tela
 Aqui estão algumas capturas de tela das funcionalidades:
 
 Login
