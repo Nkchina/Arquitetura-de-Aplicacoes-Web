@@ -70,17 +70,17 @@ Substitua {token} pelo token JWT obtido durante a autenticação.
 ### Capturas de Tela
 Aqui estão algumas capturas de tela das funcionalidades:
 
-- **Login**  
+- **Login:**  
 ![image](https://github.com/Nkchina/Arquitetura-de-Aplicacoes-Web/assets/94817330/29d246af-2dcb-4b60-853d-4ce7b26a2cbc)
 
 
-- **Extração de Nome de Usuário**  
+- **Extração de Nome de Usuário:**  
 ![image](https://github.com/Nkchina/Arquitetura-de-Aplicacoes-Web/assets/94817330/5fb8b899-2ead-46af-bafa-7cadcf379a7e)
 
-- **Acesso ao Endpoint do Usuário**  
+- **Acesso ao Endpoint do Usuário:**  
 ![image](https://github.com/Nkchina/Arquitetura-de-Aplicacoes-Web/assets/94817330/0e279d12-818c-40f2-81ab-6830ad4c37e8)
 
-- **Acesso ao Endpoint do Administrador**  
+- **Acesso ao Endpoint do Administrador:**  
 ![image](https://github.com/Nkchina/Arquitetura-de-Aplicacoes-Web/assets/94817330/302eeb16-85c6-4c93-86c6-1dbc35a64c01)
 
 ## Contribuindo
