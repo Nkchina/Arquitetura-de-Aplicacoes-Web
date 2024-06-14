@@ -39,10 +39,8 @@ O servidor será iniciado em `http://localhost:8080`.
 ### Autenticação
 
 Para autenticar um usuário e obter um token JWT, envie uma requisição POST para `/login` com um JSON contendo `username` e `password`.
-
-Exemplo de requisição:
-``bash
-curl -X POST http://localhost:8080/login
--H "Content-Type: application/json"
--d '{"username":"Nicolas","password":"2820"}'
-aaaaaa
+   Exemplo de requisição:
+   ```bash
+   curl -X POST http://localhost:8080/login
+   -H "Content-Type: application/json"
+   -d '{"username":"Nicolas","password":"2820"}'
