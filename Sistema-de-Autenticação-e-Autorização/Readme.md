@@ -1,10 +1,22 @@
-# Sistema de Autenticação e Autorização
+# Sistema de Autenticação e Autorização com JWT
 
-## JWT Rest API
-<p>Este projeto é uma API REST que utiliza JSON Web Tokens (JWT) para autenticação. Implementado com Spring Boot, ele fornece endpoints para login, extração de nome de usuário e acesso baseado em roles.</p>
+Este projeto é uma API REST que utiliza JSON Web Tokens (JWT) para autenticação e autorização. Implementado com Spring Boot, ele fornece endpoints para login, extração de nome de usuário e controle de acesso baseado em roles.
 
-### Introdução
-<p>Este projeto demonstra como configurar autenticação JWT em uma API REST com Spring Boot. Ele inclui exemplos de configuração de segurança, geração e validação de tokens JWT, e controle de acesso baseado em roles.</p>
+## Índice
+
+1. [Introdução](#introdução)
+2. [Instalação](#instalação)
+3. [Uso](#uso)
+4. [Funcionalidades](#funcionalidades)
+   - [Capturas de Tela](#capturas-de-tela)
+5. [Contribuindo](#contribuindo)
+6. [Licença](#licença)
+7. [Autores](#autores)
+8. [Agradecimentos](#agradecimentos)
+
+## Introdução
+
+Este projeto demonstra como configurar autenticação JWT em uma API REST com Spring Boot. Ele inclui exemplos de configuração de segurança, geração e validação de tokens JWT, e controle de acesso baseado em roles.
 
 ## Instalação
 
