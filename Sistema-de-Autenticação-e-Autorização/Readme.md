@@ -26,3 +26,6 @@ Para instalar e configurar o projeto, siga as etapas abaixo:
    ```sh
    git clone https://github.com/Nkchina/Arquitetura-de-Aplicacoes-Web.git
    cd Arquitetura-de-Aplicacoes-Web
+2. Execute a aplicação utilizando Maven:
+   ``` bash
+    mvn spring-boot:run
