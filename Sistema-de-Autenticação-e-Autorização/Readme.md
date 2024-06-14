@@ -29,3 +29,10 @@ Para instalar e configurar o projeto, siga as etapas abaixo:
 2. Execute a aplicação utilizando Maven:
    ``` bash
     mvn spring-boot:run
+O servidor será iniciado em http://localhost:8080.
+
+## Uso
+Autenticação
+Para autenticar um usuário e obter um token JWT, envie uma requisição POST para /login com um JSON contendo username e password.
+
+Exemplo de requisição:
