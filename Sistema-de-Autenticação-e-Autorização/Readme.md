@@ -85,12 +85,11 @@ Aqui estão algumas capturas de tela das funcionalidades:
 
 ## Contribuindo
 Para contribuir com este projeto, siga estas etapas:
-
-Faça um fork do projeto.
-Crie uma branch para sua feature (git checkout -b feature/nova-feature).
-Commit suas alterações (git commit -m 'Adiciona nova feature').
-Faça um push para a branch (git push origin feature/nova-feature).
-Abra um Pull Request.
+- Faça um fork do projeto.
+- Crie uma branch para sua feature (git checkout -b feature/nova-feature).
+- Commit suas alterações (git commit -m 'Adiciona nova feature').
+- Faça um push para a branch (git push origin feature/nova-feature).
+- Abra um Pull Request.
 
 ## Licença
 MIT License
