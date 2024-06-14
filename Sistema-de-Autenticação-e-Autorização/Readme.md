@@ -11,11 +11,8 @@ Este projeto é uma API REST que utiliza JSON Web Tokens (JWT) para autenticaç�
    - [Capturas de Tela](#capturas-de-tela)
 5. [Contribuindo](#contribuindo)
 6. [Licença](#licença)
-7. [Autores](#autores)
-8. [Agradecimentos](#agradecimentos)
 
 ## Introdução
-
 Este projeto demonstra como configurar autenticação JWT em uma API REST com Spring Boot. Ele inclui exemplos de configuração de segurança, geração e validação de tokens JWT, e controle de acesso baseado em roles.
 
 ## Instalação
