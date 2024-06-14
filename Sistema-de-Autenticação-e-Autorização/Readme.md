@@ -73,13 +73,17 @@ Substitua {token} pelo token JWT obtido durante a autenticação.
 ### Capturas de Tela
 Aqui estão algumas capturas de tela das funcionalidades:
 
-Login
+- **Login**  
+![Login](imagens/login.png)
 
-Extração de Nome de Usuário
+- **Extração de Nome de Usuário**  
+![Extração de Nome de Usuário](imagens/extracao-username.png)
 
-Acesso ao Endpoint do Usuário
+- **Acesso ao Endpoint do Usuário**  
+![Acesso ao Endpoint do Usuário](imagens/endpoint-usuario.png)
 
-Acesso ao Endpoint do Administrador
+- **Acesso ao Endpoint do Administrador**  
+![Acesso ao Endpoint do Administrador](imagens/endpoint-admin.png)
 
 ## Contribuindo
 Para contribuir com este projeto, siga estas etapas:
