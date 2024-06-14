@@ -71,7 +71,8 @@ Substitua {token} pelo token JWT obtido durante a autenticação.
 Aqui estão algumas capturas de tela das funcionalidades:
 
 - **Login**  
-![image](https://github.com/Nkchina/Arquitetura-de-Aplicacoes-Web/assets/94817330/1ce18416-c123-46ff-881c-f17e52293925)
+![image](https://github.com/Nkchina/Arquitetura-de-Aplicacoes-Web/assets/94817330/29d246af-2dcb-4b60-853d-4ce7b26a2cbc)
+
 
 - **Extração de Nome de Usuário**  
 ![Extração de Nome de Usuário](imagens/extracao-username.png)
