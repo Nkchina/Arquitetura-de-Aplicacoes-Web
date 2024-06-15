@@ -74,7 +74,7 @@ Aqui estão algumas capturas de tela das funcionalidades:
 ![image](https://github.com/Nkchina/Arquitetura-de-Aplicacoes-Web/assets/94817330/a1c9b6a2-b78e-4b68-adab-15e090e066d0)
 
 - **Extração de Nome de Usuário:**  
-![image](https://github.com/Nkchina/Arquitetura-de-Aplicacoes-Web/assets/94817330/5fb8b899-2ead-46af-bafa-7cadcf379a7e)
+![image](https://github.com/Nkchina/Arquitetura-de-Aplicacoes-Web/assets/94817330/8b907a9c-ad76-4418-b6b5-940b7ffa46a5)
 
 - **Acesso ao Endpoint do Usuário:**  
 ![image](https://github.com/Nkchina/Arquitetura-de-Aplicacoes-Web/assets/94817330/0e279d12-818c-40f2-81ab-6830ad4c37e8)
