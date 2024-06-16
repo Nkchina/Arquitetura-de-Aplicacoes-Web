@@ -71,7 +71,7 @@ Substitua {token} pelo token JWT obtido durante a autenticação.
 Aqui estão algumas capturas de tela das funcionalidades:
 
 - **Diagrama:**
-  <https://www.figma.com/board/SFhCLj11aeZKaLONt2fh9u/Untitled?node-id=0-1&t=CWHbD68tN5vsRJhc-1>
+  Link: <https://www.figma.com/board/SFhCLj11aeZKaLONt2fh9u/Untitled?node-id=0-1&t=CWHbD68tN5vsRJhc-1>
   ![image](https://github.com/Nkchina/Arquitetura-de-Aplicacoes-Web/assets/94817330/9d825a0e-1ca7-4149-a4c4-b07e1fbb415f)
 
 - **Login:**  
