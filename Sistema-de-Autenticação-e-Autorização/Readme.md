@@ -67,8 +67,12 @@ Substitua {token} pelo token JWT obtido durante a autenticação.
 - Autorização baseada em roles (usuário e admin)
 - Endpoints seguros e públicos
 
-### Capturas de Tela
+### Capturas de Tela e Diagramação
 Aqui estão algumas capturas de tela das funcionalidades:
+
+- **Diagrama:**
+  <https://www.figma.com/board/SFhCLj11aeZKaLONt2fh9u/Untitled?node-id=0-1&t=CWHbD68tN5vsRJhc-1>
+  ![image](https://github.com/Nkchina/Arquitetura-de-Aplicacoes-Web/assets/94817330/9d825a0e-1ca7-4149-a4c4-b07e1fbb415f)
 
 - **Login:**  
 ![image](https://github.com/Nkchina/Arquitetura-de-Aplicacoes-Web/assets/94817330/a1c9b6a2-b78e-4b68-adab-15e090e066d0)
@@ -77,10 +81,13 @@ Aqui estão algumas capturas de tela das funcionalidades:
 ![image](https://github.com/Nkchina/Arquitetura-de-Aplicacoes-Web/assets/94817330/8b907a9c-ad76-4418-b6b5-940b7ffa46a5)
 
 - **Acesso ao Endpoint do Usuário:**  
-![image](https://github.com/Nkchina/Arquitetura-de-Aplicacoes-Web/assets/94817330/0e279d12-818c-40f2-81ab-6830ad4c37e8)
+![image](https://github.com/Nkchina/Arquitetura-de-Aplicacoes-Web/assets/94817330/669f727b-f36e-4363-b053-3d04da3d64de)
 
 - **Acesso ao Endpoint do Administrador:**  
-![image](https://github.com/Nkchina/Arquitetura-de-Aplicacoes-Web/assets/94817330/302eeb16-85c6-4c93-86c6-1dbc35a64c01)
+![image](https://github.com/Nkchina/Arquitetura-de-Aplicacoes-Web/assets/94817330/24657371-3009-45c4-b3fd-0574cf0ac52f)
+
+- **Acesso ao Endpoint do Moderador:**
+![image](https://github.com/Nkchina/Arquitetura-de-Aplicacoes-Web/assets/94817330/64fae12c-f23c-42ff-89fc-9912257d337d)
 
 ## Contribuindo
 Para contribuir com este projeto, siga estas etapas:
