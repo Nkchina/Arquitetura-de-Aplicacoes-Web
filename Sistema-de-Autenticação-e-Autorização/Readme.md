@@ -70,15 +70,15 @@ Substitua {token} pelo token JWT obtido durante a autenticação.
 
 ## Funcionalidades
 - Autenticação utilizando JWT
-- Autorização baseada em roles (usuário e admin)
+- Autorização baseada em roles (usuário, admin, moderador e comum)
 - Endpoints seguros e públicos
 
 ### Capturas de Tela e Diagramação
-Aqui estão algumas capturas de tela das funcionalidades:
-
 - **Diagrama:**
   Link: <https://www.figma.com/board/SFhCLj11aeZKaLONt2fh9u/Untitled?node-id=0-1&t=CWHbD68tN5vsRJhc-1>
   ![image](https://github.com/Nkchina/Arquitetura-de-Aplicacoes-Web/assets/94817330/9d825a0e-1ca7-4149-a4c4-b07e1fbb415f)
+
+Aqui estão algumas capturas de tela das funcionalidades:
 
 - **Login:**  
 ![image](https://github.com/Nkchina/Arquitetura-de-Aplicacoes-Web/assets/94817330/a1c9b6a2-b78e-4b68-adab-15e090e066d0)
