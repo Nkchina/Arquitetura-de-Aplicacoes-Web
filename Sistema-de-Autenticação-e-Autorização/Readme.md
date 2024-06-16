@@ -8,7 +8,7 @@ Este projeto é uma API REST que utiliza JSON Web Tokens (JWT) para autenticaç�
 2. [Instalação](#instalação)
 3. [Uso](#uso)
 4. [Funcionalidades](#funcionalidades)
-   - [Capturas de Tela](#capturas-de-tela)
+   - [Capturas de Tela e Diagramação](#capturas-de-tela-e-diagramação)
 5. [Contribuindo](#contribuindo)
 6. [Licença](#licença)
 
